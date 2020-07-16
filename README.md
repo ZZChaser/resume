@@ -3,7 +3,7 @@
 ## 基本信息
 
 * 朱钊 / 男 / 1994-05
-* 学历：本科 / 四川理工学院 / 软件工程 / CET4级
+* 学历：本科 / 四川轻化工大学 / 软件工程 / CET4级
 * 现居：上海
 * Github：https://github.com/ZZChaser
 * 博客地址：https://zzchaser.github.io
